@@ -1,0 +1,6 @@
+int n;
+if(true){
+    n = 0;
+}else{
+    3+3
+}
